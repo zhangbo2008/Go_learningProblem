@@ -2,6 +2,19 @@
 
 go get问题:
 
+cmd里面水下面命令
+终极方案-goproxy代理
+go env -w GOPROXY=https://goproxy.cn,direct
+一条命令搞定
+
+
+
+
+
+
+
+
+
 
 https://github.com/zhangbo2008/Go_learningProblem
 
