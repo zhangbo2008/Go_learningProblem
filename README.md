@@ -12,6 +12,14 @@ go env -w GOPROXY=https://goproxy.cn,direct
 
 
 
+Fixing go: inconsistent vendoring in C:\Go\src:
+
+
+https://stackoverflow.com/questions/58511588/fixing-go-inconsistent-vendoring-in-c-go-src
+
+
+
+
 
 
 
